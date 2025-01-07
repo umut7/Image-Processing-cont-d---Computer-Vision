@@ -12,8 +12,8 @@ This is a continuation of the previous image processing project. The project inc
   - **Darker, Brighter, and Original** images.
   - **Low Contrast, High Contrast, and Original** images.
 
-![Brightness Example](results/brightness.png)
-![Contrast Example](results/contrast.png)
+![Brightness Example](brightness.png)
+![Contrast Example](contrast.png)
 
 
 ### **2. Image Thresholding**
@@ -23,8 +23,8 @@ This is a continuation of the previous image processing project. The project inc
   - Thresholding applied to building windows and music sheet images.
   - Comparison between global and adaptive thresholding.
 
-![Thresholding Example](results/threshold.png)
-![Adjusted Thresholding Example](results/thresholdAdjusted.png)
+![Thresholding Example](threshold.png)
+![Adjusted Thresholding Example](thresholdAdjusted.png)
 
 
 ### **3. Bitwise Operations**
@@ -35,8 +35,8 @@ This is a continuation of the previous image processing project. The project inc
   - **OR** operation: Union of shapes.
   - **XOR** operation: Exclusive differences between shapes.
 
-![Bitwise Operations Example](results/bitwise1.png)
-![Bitwise Operations Example](results/bitwise2.png)
+![Bitwise Operations Example](bitwise1.png)
+![Bitwise Operations Example](bitwise2.png)
 
 
 ### **4. Image Masking and Compositing**
@@ -44,7 +44,7 @@ This is a continuation of the previous image processing project. The project inc
 - Use masks to extract the foreground or background of an image.
 - Overlay a Coca-Cola logo onto a checkerboard background with proper scaling and alignment.
 
-![Image Masking Example](results/masking.png)
+![Image Masking Example](masking.png)
 
 
 ## Technologies
