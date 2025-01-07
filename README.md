@@ -1,4 +1,4 @@
-# Image-Processing-cont'd---Computer-Vision
+# Image Processing (cont'd) - Computer-Vision
 
 This is a continuation of the previous image processing project. The project includes operations like image manipulation, thresholding, bitwise operations, and masking, along with practical demonstrations of brightness, contrast adjustments, and composite image creation.
 
